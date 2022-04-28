@@ -1,0 +1,600 @@
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 3,8574873706743825E-10  
+Planeta posição y : -2,2777544474458264E-10  
+Planeta velocidade x : 3,857487370477651E-20 
+Planeta velocidade y : -2,2777544473296607E-20 
+Planeta Força x : 1,2535985306830862E-16 
+Planeta Foça y : -7,402200847842985E-17 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 2,0097900920370734E-09  
+Planeta posição y : -1,1867331972028433E-09  
+Planeta velocidade x : 2,0097900919345743E-19 
+Planeta velocidade y : -1,18673319714232E-19 
+Planeta Força x : 6,267992653419114E-16 
+Planeta Foça y : -3,7011004239236674E-16 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 644983989581947,2  
+Planeta posição y : -380847689086483,2  
+Planeta velocidade x : 64498,3989549053 
+Planeta velocidade y : -38084,76890670599 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 672086416478380,8  
+Planeta posição y : -396851026872948,7  
+Planeta velocidade x : 67208,64164441043 
+Planeta velocidade y : -39685,102685270926 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 1289967979163249,5  
+Planeta posição y : -761695378172585,5  
+Planeta velocidade x : 128996,7979098106 
+Planeta velocidade y : -76169,53781341198 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 1344172832956089,2  
+Planeta posição y : -793702053745500,5  
+Planeta velocidade x : 134417,28328882085 
+Planeta velocidade y : -79370,20537054185 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 1934951968744551,5  
+Planeta posição y : -1142543067258687,8  
+Planeta velocidade x : 193495,1968647159 
+Planeta velocidade y : -114254,30672011798 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 2016259249433797,5  
+Planeta posição y : -1190553080618052,2  
+Planeta velocidade x : 201625,92493323126 
+Planeta velocidade y : -119055,30805581278 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 2579935958325854  
+Planeta posição y : -1523390756344790  
+Planeta velocidade x : 257993,5958196212 
+Planeta velocidade y : -152339,07562682396 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 2688345665911506,5  
+Planeta posição y : -1587404107490604  
+Planeta velocidade x : 268834,5665776417 
+Planeta velocidade y : -158740,4107410837 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 3224919947907156  
+Planeta posição y : -1904238445430892,2  
+Planeta velocidade x : 322491,9947745265 
+Planeta velocidade y : -190423,84453352995 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 3360432082389215  
+Planeta posição y : -1984255134363155,8  
+Planeta velocidade x : 336043,20822205214 
+Planeta velocidade y : -198425,51342635462 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 3869903937488458  
+Planeta posição y : -2285086134516995  
+Planeta velocidade x : 386990,3937294318 
+Planeta velocidade y : -228508,61344023593 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 4032518498866924  
+Planeta posição y : -2381106161235708  
+Planeta velocidade x : 403251,8498664626 
+Planeta velocidade y : -238110,61611162554 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 4514887927069760  
+Planeta posição y : -2665933823603096,5  
+Planeta velocidade x : 451488,79268433707 
+Planeta velocidade y : -266593,3823469419 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 4704604915344632  
+Planeta posição y : -2777957188108259,5  
+Planeta velocidade x : 470460,491510873 
+Planeta velocidade y : -277795,71879689646 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 5159871916651062  
+Planeta posição y : -3046781512689199,5  
+Planeta velocidade x : 515987,19163924234 
+Planeta velocidade y : -304678,1512536479 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 5376691331822341  
+Planeta posição y : -3174808214980811,5  
+Planeta velocidade x : 537669,1331552834 
+Planeta velocidade y : -317480,8214821674 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 5804855906232365  
+Planeta posição y : -3427629201775302  
+Planeta velocidade x : 580485,5905941477 
+Planeta velocidade y : -342762,92016035394 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 6048777748300049  
+Planeta posição y : -3571659241853363,5  
+Planeta velocidade x : 604877,7747996938 
+Planeta velocidade y : -357165,92416743835 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 6449839895813667  
+Planeta posição y : -3808476890861404,5  
+Planeta velocidade x : 644983,989549053 
+Planeta velocidade y : -380847,68906705995 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 6720864164777758  
+Planeta posição y : -3968510268725915,5  
+Planeta velocidade x : 672086,4164441043 
+Planeta velocidade y : -396851,0268527093 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 7094823885394970  
+Planeta posição y : -4189324579947506,5  
+Planeta velocidade x : 709482,3885039584 
+Planeta velocidade y : -418932,45797376597 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 7392950581255467  
+Planeta posição y : -4365361295598467,5  
+Planeta velocidade x : 739295,0580885147 
+Planeta velocidade y : -436536,12953798025 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 7739807874976272  
+Planeta posição y : -4570172269033610  
+Planeta velocidade x : 773980,7874588637 
+Planeta velocidade y : -457017,226880472 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 8065036997733176  
+Planeta posição y : -4762212322471020  
+Planeta velocidade x : 806503,6997329252 
+Planeta velocidade y : -476221,2322232512 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 8384791864557575  
+Planeta posição y : -4951019958119712  
+Planeta velocidade x : 838479,186413769 
+Planeta velocidade y : -495101,995787178 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 8737123414210884  
+Planeta posição y : -5159063349343571  
+Planeta velocidade x : 873712,3413773356 
+Planeta velocidade y : -515906,33490852214 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 9029775854138876  
+Planeta posição y : -5331867647205813  
+Planeta velocidade x : 902977,5853686744 
+Planeta velocidade y : -533186,764693884 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 9409209830688592  
+Planeta posição y : -5555914376216123  
+Planeta velocidade x : 940920,983021746 
+Planeta velocidade y : -555591,437593793 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 9674759843720180  
+Planeta posição y : -5712715336291917  
+Planeta velocidade x : 967475,9843235797 
+Planeta velocidade y : -571271,53360059 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 10081296247166300  
+Planeta posição y : -5952765403088675  
+Planeta velocidade x : 1008129,6246661565 
+Planeta velocidade y : -595276,540279064 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 10319743833301482  
+Planeta posição y : -6093563025378019  
+Planeta velocidade x : 1031974,383278485 
+Planeta velocidade y : -609356,302507296 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 10753382663644010  
+Planeta posição y : -6349616429961227  
+Planeta velocidade x : 1075338,2663105668 
+Planeta velocidade y : -634961,6429643349 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 10964727822882782  
+Planeta posição y : -6474410714464122  
+Planeta velocidade x : 1096472,7822333903 
+Planeta velocidade y : -647441,071414002 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 11425469080121718  
+Planeta posição y : -6746467456833779  
+Planeta velocidade x : 1142546,9079549771 
+Planeta velocidade y : -674646,7456496059 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 11609711812464086  
+Planeta posição y : -6855258403550224  
+Planeta velocidade x : 1160971,1811882956 
+Planeta velocidade y : -685525,840320708 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 12097555496599424  
+Planeta posição y : -7143318483706331  
+Planeta velocidade x : 1209755,5495993875 
+Planeta velocidade y : -714331,8483348768 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 12254695802045388  
+Planeta posição y : -7236106092636326  
+Planeta velocidade x : 1225469,580143201 
+Planeta velocidade y : -723610,609227414 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 12769641913077132  
+Planeta posição y : -7540169510578883  
+Planeta velocidade x : 1276964,1912437978 
+Planeta velocidade y : -754016,9510201478 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 12899679791626690  
+Planeta posição y : -7616953781722429  
+Planeta velocidade x : 1289967,9790981063 
+Planeta velocidade y : -761695,37813412 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 13441728329554838  
+Planeta posição y : -7937020537451435  
+Planeta velocidade x : 1344172,832888208 
+Planeta velocidade y : -793702,0537054187 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 13544663781207994  
+Planeta posição y : -7997801470808531  
+Planeta velocidade x : 1354466,3780530116 
+Planeta velocidade y : -799780,147040826 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 14113814746032546  
+Planeta posição y : -8333871564323988  
+Planeta velocidade x : 1411381,4745326184 
+Planeta velocidade y : -833387,1563906897 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 14189647770789296  
+Planeta posição y : -8378649159894633  
+Planeta velocidade x : 1418964,777007917 
+Planeta velocidade y : -837864,915947532 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 14785901162510256  
+Planeta posição y : -8730722591196539  
+Planeta velocidade x : 1478590,1161770287 
+Planeta velocidade y : -873072,2590759606 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 14834631760370598  
+Planeta posição y : -8759496848980737  
+Planeta velocidade x : 1483463,1759628223 
+Planeta velocidade y : -875949,6848542381 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 15457987578987962  
+Planeta posição y : -9127573618069090  
+Planeta velocidade x : 1545798,757821439 
+Planeta velocidade y : -912757,3617612316 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 15479615749951900  
+Planeta posição y : -9140344538066838  
+Planeta velocidade x : 1547961,5749177276 
+Planeta velocidade y : -914034,4537609441 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 16130073995465670  
+Planeta posição y : -9524424644941644  
+Planeta velocidade x : 1613007,3994658494 
+Planeta velocidade y : -952442,4644465025 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 16124599739533204  
+Planeta posição y : -9521192227152940  
+Planeta velocidade x : 1612459,973872633 
+Planeta velocidade y : -952119,2226676501 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 16802160411943378  
+Planeta posição y : -9921275671814194  
+Planeta velocidade x : 1680216,0411102597 
+Planeta velocidade y : -992127,5671317735 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 16769583729114506  
+Planeta posição y : -9902039916239042  
+Planeta velocidade x : 1676958,3728275383 
+Planeta velocidade y : -990203,9915743561 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 17474246828421084  
+Planeta posição y : -10318126698686746  
+Planeta velocidade x : 1747424,68275467 
+Planeta velocidade y : -1031812,6698170444 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 17414567718695808  
+Planeta posição y : -10282887605325146  
+Planeta velocidade x : 1741456,7717824436 
+Planeta velocidade y : -1028288,7604810621 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 18146333244898790  
+Planeta posição y : -10714977725559296  
+Planeta velocidade x : 1814633,3243990804 
+Planeta velocidade y : -1071497,7725023152 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 18059551708277108  
+Planeta posição y : -10663735294411248  
+Planeta velocidade x : 1805955,170737349 
+Planeta velocidade y : -1066373,5293877681 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 18818419661376500  
+Planeta posição y : -11111828752431848  
+Planeta velocidade x : 1881841,9660434907 
+Planeta velocidade y : -1111182,875187586 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
+Planeta Saturno
+Planeta massa : 324978 
+Planeta posição x : 18704535697858416  
+Planeta posição y : -11044582983497352  
+Planeta velocidade x : 1870453,5696922543 
+Planeta velocidade y : -1104458,2982944741 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 129 
+
+Planeta Marte
+Planeta massa : 311873 
+Planeta posição x : 19490506077854210  
+Planeta posição y : -11508679779304398  
+Planeta velocidade x : 1949050,607687901 
+Planeta velocidade y : -1150867,977872857 
+Planeta Força x : 209605606,95567214 
+Planeta Foça y : -123767120,29763499 
+Planeta raio : 73 
+
